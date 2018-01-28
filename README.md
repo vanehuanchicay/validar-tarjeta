@@ -7,5 +7,3 @@
 #### -  de ser correctos nos retorna el resultado correcto, sino los vuelve a pedir.
 ### - FIN
 
-ESTE ES EL LINK DEL DIAGRAMA DE FUJO
-[link])(https://www.goconqr.com/es-ES/p/10717920)
